@@ -1,0 +1,7 @@
+hello: 1 true
+hello: 1 true
+ false
+ false
+ false
+hello: 2 true
+all chan close and return main
